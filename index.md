@@ -1,3 +1,7 @@
+>_“Happiness should be a function without any parameters.”_
+>_- Pranshu Midha_
+
+
 # Reading Notes
 
 This page will serve as a source for reading notes for the DeltaV 401 Software Development program.
